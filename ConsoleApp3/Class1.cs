@@ -10,4 +10,10 @@ namespace ConsoleApp3
     {
         int a = 1;
     }
+    public class Class2
+    {
+        public int a;
+        public int b;
+        public int c;
+    }
 }
